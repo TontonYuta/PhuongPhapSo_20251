@@ -1,0 +1,9 @@
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\obj\Debug\Da_thuc_noi_suy_Chebyshev.csproj.AssemblyReference.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\obj\Debug\Da_thuc_noi_suy_Chebyshev.Properties.Resources.resources
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\obj\Debug\Da_thuc_noi_suy_Chebyshev.csproj.GenerateResource.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\obj\Debug\Da_thuc_noi_suy_Chebyshev.csproj.CoreCompileInputs.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\bin\Debug\Da_thuc_noi_suy_Chebyshev.exe.config
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\bin\Debug\Da_thuc_noi_suy_Chebyshev.exe
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\bin\Debug\Da_thuc_noi_suy_Chebyshev.pdb
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\obj\Debug\Da_thuc_noi_suy_Chebyshev.exe
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Chebyshev\obj\Debug\Da_thuc_noi_suy_Chebyshev.pdb

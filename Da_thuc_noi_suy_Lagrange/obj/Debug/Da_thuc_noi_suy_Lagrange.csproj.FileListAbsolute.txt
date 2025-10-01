@@ -1,0 +1,10 @@
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\bin\Debug\Da_thuc_noi_suy_Lagrange.exe.config
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\bin\Debug\Da_thuc_noi_suy_Lagrange.exe
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\bin\Debug\Da_thuc_noi_suy_Lagrange.pdb
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.csproj.AssemblyReference.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.Properties.Resources.resources
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.csproj.GenerateResource.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.csproj.CoreCompileInputs.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.exe
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.pdb
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_Lagrange\obj\Debug\Da_thuc_noi_suy_Lagrange.exe.config

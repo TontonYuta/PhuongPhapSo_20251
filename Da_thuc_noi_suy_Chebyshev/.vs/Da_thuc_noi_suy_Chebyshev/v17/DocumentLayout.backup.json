@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|g:\\phuongphapso_20251\\da_thuc_noi_suy_chebyshev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|g:\\phuongphapso_20251\\da_thuc_noi_suy_chebyshev\\chebyshevinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|solutionrelative:chebyshevinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|g:\\phuongphapso_20251\\da_thuc_noi_suy_chebyshev\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|g:\\phuongphapso_20251\\da_thuc_noi_suy_chebyshev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|g:\\phuongphapso_20251\\da_thuc_noi_suy_chebyshev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE51CFB1-D971-4B48-8487-3710C11E260C}|Da_thuc_noi_suy_Chebyshev.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChebyshevInterpolation.cs",
+              "DocumentMoniker": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\ChebyshevInterpolation.cs",
+              "RelativeDocumentMoniker": "ChebyshevInterpolation.cs",
+              "ToolTip": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\ChebyshevInterpolation.cs",
+              "RelativeToolTip": "ChebyshevInterpolation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:06:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:04:30.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:04:25.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:04:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\PhuongPhapSo_20251\\Da_thuc_noi_suy_Chebyshev\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:03:57.366Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

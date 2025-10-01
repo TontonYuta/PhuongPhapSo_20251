@@ -1,0 +1,10 @@
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\bin\Debug\Da_thuc_noi_suy_trung_tam.exe.config
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\bin\Debug\Da_thuc_noi_suy_trung_tam.exe
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\bin\Debug\Da_thuc_noi_suy_trung_tam.pdb
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.csproj.AssemblyReference.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.Properties.Resources.resources
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.csproj.GenerateResource.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.csproj.CoreCompileInputs.cache
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.exe
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.pdb
+G:\PhuongPhapSo_20251\Da_thuc_noi_suy_trung_tam\obj\Debug\Da_thuc_noi_suy_trung_tam.exe.config
